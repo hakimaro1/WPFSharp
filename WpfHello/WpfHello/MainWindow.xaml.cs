@@ -20,6 +20,8 @@ namespace WpfHello
     /// </summary>
     public partial class MainWindow : Window
     {
+       
+
         bool isDataDirty = false;
         public MainWindow()
         {
@@ -103,7 +105,7 @@ namespace WpfHello
 
         }
         public MyWindow myWin { get; set; }
-        private void New_Win_Click(object sender, RoutedEventArgs e)
+        private void New_Win_Click_1(object sender, RoutedEventArgs e)
         {
             if (myWin == null)
                 myWin = new MyWindow();
