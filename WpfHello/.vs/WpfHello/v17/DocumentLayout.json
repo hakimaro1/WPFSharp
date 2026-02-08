@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\coder\\Desktop\\WpfHello\\",
+  "WorkspaceRootPath": "C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|c:\\users\\coder\\desktop\\wpfhello\\wpfhello\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|C:\\Users\\coder\\Desktop\\WpfHello\\wpfhello\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\wpfhello\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|C:\\Users\\coder\\Desktop\\WpfHello\\wpfhello\\mywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\mywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|c:\\users\\coder\\desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\wpfhello\\wpfhello\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|C:\\Users\\coder\\Desktop\\WpfHello\\wpfhello\\mywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\wpfhello\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\wpfhello\\mywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\mywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|C:\\Users\\coder\\Desktop\\WpfHello\\wpfhello\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\wpfhello\\mywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7012FB71-CA77-466D-9F77-07A8649C5598}|WpfHello\\WpfHello.csproj|solutionrelative:wpfhello\\mywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,50 +30,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 352,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MyWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\coder\\Desktop\\WpfHello\\WpfHello\\MyWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\WpfHello\\MyWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfHello\\MyWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\coder\\Desktop\\WpfHello\\WpfHello\\MyWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\WpfHello\\MyWindow.xaml.cs",
               "RelativeToolTip": "WpfHello\\MyWindow.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwEMAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T14:17:39.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\coder\\Desktop\\WpfHello\\WpfHello\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\WpfHello\\App.xaml",
               "RelativeDocumentMoniker": "WpfHello\\App.xaml",
-              "ToolTip": "C:\\Users\\coder\\Desktop\\WpfHello\\WpfHello\\App.xaml",
+              "ToolTip": "C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\WpfHello\\App.xaml",
               "RelativeToolTip": "WpfHello\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-03T14:04:52.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T14:04:52.372Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MyWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\coder\\Desktop\\WpfHello\\WpfHello\\MyWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\WpfHello\\MyWindow.xaml",
               "RelativeDocumentMoniker": "WpfHello\\MyWindow.xaml",
-              "ToolTip": "C:\\Users\\coder\\Desktop\\WpfHello\\WpfHello\\MyWindow.xaml",
+              "ToolTip": "C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\WpfHello\\MyWindow.xaml",
               "RelativeToolTip": "WpfHello\\MyWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-03T14:04:45.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\coder\\Desktop\\WpfHello\\WpfHello\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\WpfHello\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfHello\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\coder\\Desktop\\WpfHello\\WpfHello\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\WpfHello\\MainWindow.xaml",
               "RelativeToolTip": "WpfHello\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-03T13:35:06.138Z",
@@ -81,15 +80,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\coder\\Desktop\\WpfHello\\WpfHello\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\WpfHello\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfHello\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\coder\\Desktop\\WpfHello\\WpfHello\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\coder\\Desktop\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 3 \u0433\u043E\u0442\u043E\u0432\u043E\u0435\\WpfHello\\WpfHello\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfHello\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T13:35:05.568Z"
+              "WhenOpened": "2026-02-03T13:35:05.568Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -12,17 +12,16 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.IO;
+
 
 namespace WpfHello
 {
-    /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
-       
-
         bool isDataDirty = false;
+        string nameFile = "username.txt";  
+
         public MainWindow()
         {
             InitializeComponent();
@@ -31,44 +30,53 @@ namespace WpfHello
             retBut.IsEnabled = false;
         }
 
-        private void setBut_Click(object sender, RoutedEventArgs e)
+       
+        private void SetBut()
         {
-            System.IO.StreamWriter sw = null;
-            try
+            using (StreamWriter sw = new StreamWriter(nameFile))
             {
-                sw = new System.IO.StreamWriter("username.txt");
                 sw.WriteLine(setText.Text);
             }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
-            finally
-            {
-                if (sw != null)
-                    sw.Close();
-                retBut.IsEnabled = true;
-
-            }
-
+            retBut.IsEnabled = true;
+            isDataDirty = false;
         }
 
-        private void retBut_Click(object sender, RoutedEventArgs e)
+        
+        private void RetBut()
         {
-            System.IO.StreamReader sr = null;
             try
             {
-                using (sr = new System.IO.StreamReader("username.txt"))
+                using (StreamReader sr = new StreamReader(nameFile))
+                {
                     retLabel.Content = "Приветствую Вас, уважаемый " + sr.ReadToEnd();
+                }
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
-            finally
+        }
+
+        
+        private void Grid_Click(object sender, RoutedEventArgs e)
+        {
+            FrameworkElement feSource = e.Source as FrameworkElement;
+            try
             {
-                if (sr != null)
-                    sr.Close();
+                switch (feSource.Name)
+                {
+                    case "setBut":
+                        SetBut();
+                        break;
+                    case "retBut":
+                        RetBut();
+                        break;
+                }
+                e.Handled = true;  
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
             }
         }
 
@@ -82,15 +90,13 @@ namespace WpfHello
         {
             if (this.isDataDirty)
             {
-                string msg = "Данные были изменены, но не сохранены!\n Закрыт окно без сохранения ? ";
- MessageBoxResult result = MessageBox.Show(msg, "Контроль данных", MessageBoxButton.YesNo, MessageBoxImage.Warning);
- if (result == MessageBoxResult.No)
+                string msg = "Данные были изменены, но не сохранены!\n Закрыть окно без сохранения?";
+                MessageBoxResult result = MessageBox.Show(msg, "Контроль данных", MessageBoxButton.YesNo, MessageBoxImage.Warning);
+                if (result == MessageBoxResult.No)
                 {
                     e.Cancel = true;
                 }
             }
-
-
             isDataDirty = false;
         }
 
@@ -102,9 +108,10 @@ namespace WpfHello
         private void MenuItem_Click_1(object sender, RoutedEventArgs e)
         {
             this.Close();
-
         }
+
         public MyWindow myWin { get; set; }
+
         private void New_Win_Click_1(object sender, RoutedEventArgs e)
         {
             if (myWin == null)
